@@ -199,7 +199,7 @@ Para adaptar MACS a tu proyecto:
 
 ## 📜 Licencia
 
-Uso personal / interno. Creado por Jonathan Urrego.
+Uso personal / interno.
 
 ---
 
@@ -207,4 +207,3 @@ Uso personal / interno. Creado por Jonathan Urrego.
 
 - **Diseño base:** Anthropic — [Building a multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 - **Modelo host:** MiniMax M3 (Fable 5 / Opus 4.8 / Sonnet 4.6 / Haiku 4.5)
-- **Implementación:** Jonathan Urrego, 2026.
